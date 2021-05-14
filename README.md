@@ -1,7 +1,9 @@
 **A Web Location Interface Design**
 
 You must build a web application with server side scripting on a full scale webserver. You must design a live website for recording locations and finding people.
+
 **Requirements**
+
 Write a web application for the student location service. In addition to storing the current location of each student, it must also keep track of each student’s previous locations. Your web application must implement the following tasks:
 1) A database storing locations and details of students.
 a. For each student, a first name and surname must be uniquely stored in the SQL database.
