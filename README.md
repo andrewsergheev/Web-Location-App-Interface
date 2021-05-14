@@ -1,6 +1,6 @@
 # A Web Location Interface Design
 
-The project is a web application with server side scripting on a full scale webserver. The project is a live website for recording locations and finding people.
+The project is a web application with server side scripting on a full scale webserver. The project is a live website for recording locations and finding people. University project and received 90% overall mark
 
 ## Requirements
 
